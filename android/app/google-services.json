@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "678206253033",
+    "firebase_url": "https://pushnotificationdemo-d0434-default-rtdb.firebaseio.com",
+    "project_id": "pushnotificationdemo-d0434",
+    "storage_bucket": "pushnotificationdemo-d0434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678206253033:android:48b44eb95b88b8c5f68d78",
+        "android_client_info": {
+          "package_name": "com.example.demo_push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYgzteCnf6CN7SlNXX06Sxt77sLM-nPxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678206253033:android:7e29d2bd4c9df9bbf68d78",
+        "android_client_info": {
+          "package_name": "com.tanjim.push_notification_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYgzteCnf6CN7SlNXX06Sxt77sLM-nPxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
